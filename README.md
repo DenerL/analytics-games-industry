@@ -42,9 +42,6 @@ O painel visual foi conectado diretamente à base de dados tratada para responde
 *   Qual o impacto do fator de compra (Ex: Loop de Gameplay, Gráficos, História) no gasto mensal em BRL?
 *   Quais plataformas (PC, Console, Mobile, Multiplataforma) retêm mais horas de engajamento semanal?
 
-> 💡 **Acesse o Dashboard Online:** [Se você publicou no Power BI Service, cole o link aqui. Se não, remova esta linha]
-
-*(Dica: Tire um print do seu dashboard do Power BI, salve uma imagem como `dashboard.png` na raiz do seu projeto e insira ela abaixo)*
 ![Demonstração do Dashboard](./dashboard.png)
 
 ---
