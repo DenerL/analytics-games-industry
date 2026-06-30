@@ -54,8 +54,16 @@ O projeto foi estruturado pensando em evoluções futuras. As próximas etapas p
 3.  **Novas Métricas no Dashboard:** Adicionar análises de evolução temporal, mostrando quais anos tiveram os lançamentos mais engajados da indústria.
 
 ---
- ## ⚙️ Como Executar o Projeto
+## ⚙️ Como Executar o Projeto
 
-1. Clone o repositório:
+Abra o terminal no seu computador e execute os seguintes comandos, um por um:
+
+1. **Clonar o repositório:**
    ```bash
-   git clone [https://github.com/SeuUsuario/nome-do-repositorio.git](https://github.com/SeuUsuario/nome-do-repositorio.git)
+   git clone [https://github.com/DenerL/analytics-games-industry.git](https://github.com/DenerL/analytics-games-industry.git)
+
+   cd analise-industria-de-jogos
+
+   pip install pandas openpyxl
+
+   python scripts_python/importar_e_ranquear_jogos.py
