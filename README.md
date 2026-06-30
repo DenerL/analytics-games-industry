@@ -62,8 +62,11 @@ Abra o terminal no seu computador e execute os seguintes comandos, um por um:
    ```bash
    git clone [https://github.com/DenerL/analytics-games-industry.git](https://github.com/DenerL/analytics-games-industry.git)
 
+1 entrar na pasta do projeto
+```bash
    cd analise-industria-de-jogos
-
+2 
+```bash
    pip install pandas openpyxl
 
    python scripts_python/importar_e_ranquear_jogos.py
