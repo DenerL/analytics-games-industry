@@ -57,7 +57,7 @@ O projeto foi estruturado pensando em evoluções futuras. As próximas etapas p
 ## ⚙️ Como Executar o Projeto
 
 Abra o terminal no seu computador e execute os seguintes comandos, um por um:
-
+```bash
 1. Clonar o repositório:
 git clone https://github.com/DenerL/analytics-games-industry.git
 
