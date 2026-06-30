@@ -62,15 +62,15 @@ Abra o terminal no seu computador e execute os seguintes comandos, um por um:
 1. **Clonar o repositório:**
    ```bash
    git clone [https://github.com/DenerL/analytics-games-industry.git](https://github.com/DenerL/analytics-games-industry.git)
+   
 Entrar na pasta do projeto:
-
-Bash
+```Bash
 cd analytics-games-industry
+
 Instalar as bibliotecas necessárias:
-
-Bash
+```Bash
 pip install pandas openpyxl
-Executar o script que processa os dados e gera o ranking:
 
-Bash
+Executar o script que processa os dados e gera o ranking:
+```Bash
 python scripts_python/importar_e_ranquear_jogos.py
