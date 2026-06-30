@@ -45,8 +45,16 @@ O painel visual foi conectado diretamente à base de dados tratada para responde
 ![Demonstração do Dashboard](./dashboard.png)
 
 ---
+## 🗺️ Próximas Implementações (Roadmap)
 
-## ⚙️ Como Executar o Projeto
+O projeto foi estruturado pensando em evoluções futuras. As próximas etapas planejadas são:
+
+1.  **Interface de Linha de Comando (CLI) Avançada:** Melhorar o script de exibição para permitir que o usuário pesquise por jogos específicos ou filtre por plataforma direto no terminal.
+2.  **Criação de uma API:** Utilizar frameworks web em Python (como o FastAPI) para transformar esse banco de dados em uma API que entrega o ranking de jogos em formato JSON.
+3.  **Novas Métricas no Dashboard:** Adicionar análises de evolução temporal, mostrando quais anos tiveram os lançamentos mais engajados da indústria.
+
+---
+ ## ⚙️ Como Executar o Projeto
 
 1. Clone o repositório:
    ```bash
